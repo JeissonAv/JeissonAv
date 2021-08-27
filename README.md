@@ -13,7 +13,6 @@ I'm Jeisson Avila and I'm a software developer/DevOps engineer, I have a lot of 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure%20DevOps-informational?style=flat&logo=Azure%20DevOps&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure%20Pipelines-informational?style=flat&logo=Azure%20Pipelines&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=flat&logo=Microsoft%20Azure&logoColor=white&color=2bbc8a)
