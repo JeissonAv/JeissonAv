@@ -14,6 +14,6 @@ I'm Jeisson Avila and I'm a software developer, I have a lot of passion for lear
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=NestJS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
